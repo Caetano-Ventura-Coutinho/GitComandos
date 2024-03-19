@@ -1,5 +1,6 @@
 <H1>Comandos Git</H1>
-
+<H2>Integrantes da dupla: Caetano Ventura Coutinho e Gilson Gomes da Silva.
+<br>
 <p>1 - Criando repositório no GitHub </p>
 <img src="/img/1_Passo.png"></img>
 <br>  
